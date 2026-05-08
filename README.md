@@ -10,7 +10,7 @@ Welcome to the official documentation for **HMRBase2**, a comprehensive and manu
 
 Patiyal, S., Agrawal, P., Kumar, V., Dhall, A., Kumar, R., Mishra, G., & Raghava, G. P. S. (2020). 
 **HMRBase2: a comprehensive database of hormones and their receptors.** *Briefings in Bioinformatics*, 21(3), 1051–1059. 
-[https://doi.org/10.1093/bib/bbz048](https://doi.org/10.1093/bib/bbz048)
+[https://doi.org/10.1093/bib/bbz048](https://doi.org/10.1016/0022-2836(81)90087-5)
 
 ---
 
