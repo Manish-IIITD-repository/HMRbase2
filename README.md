@@ -12,6 +12,8 @@ Patiyal, S., Agrawal, P., Kumar, V., Dhall, A., Kumar, R., Mishra, G., & Raghava
 **HMRBase2: a comprehensive database of hormones and their receptors.** *Briefings in Bioinformatics*, 21(3), 1051–1059. 
 [https://link.springer.com/article/10.1007/s42000-023-00455-5](https://link.springer.com/article/10.1007/s42000-023-00455-5)
 
+Zenodo:-(https://doi.org/10.5281/zenodo.20089050)
+
 ---
 
 ## About the Platform
